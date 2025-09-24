@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+header{
+    background-color: rgb(187, 139, 139);
+    text-align: center;
+    height: 50px;
+    font-size: 30px;
+    padding-top: 10px;
+}
+button{
+    border-radius: 10px;
+    border: none;
+}
+fieldset{
+    width: 300px;
+}
+li{
+    padding-left: 10px;
+    padding-bottom: 10px;
+    height: 130px;
+    border-radius: 5%;;
+    background-color: rgb(178, 84, 125);
+    width: 200px;
+}
